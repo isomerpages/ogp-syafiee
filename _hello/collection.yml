@@ -1,5 +1,0 @@
-collections:
-  hello:
-    output: true
-    order:
-      - example-page.md
